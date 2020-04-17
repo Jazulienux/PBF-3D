@@ -1,0 +1,87 @@
+{
+  "cart": [
+    {
+      "userId": 1,
+      "id": 1585990732383,
+      "nama": "Philips",
+      "harga": 246000,
+      "total_qty": 3,
+      "total_harga": 738000
+    },
+    {
+      "userId": 1,
+      "id": 1585990734500,
+      "nama": "Philips",
+      "harga": 246000,
+      "total_qty": 2,
+      "total_harga": 492000
+    },
+    {
+      "userId": 1,
+      "id": 1585990906337,
+      "nama": "Philips",
+      "harga": 246000,
+      "total_qty": 2,
+      "total_harga": 492000
+    },
+    {
+      "userId": 1,
+      "id": 1585990988495,
+      "nama": "Philips",
+      "harga": 246000,
+      "total_qty": 2,
+      "total_harga": 492000
+    },
+    {
+      "userId": 2,
+      "id": 1585991056352,
+      "nama": "Maspion",
+      "harga": 119900,
+      "total_qty": "13",
+      "total_harga": 1558700
+    },
+    {
+      "userId": 2,
+      "id": 1585991067204,
+      "nama": "Maspion",
+      "harga": 119900,
+      "total_qty": "13",
+      "total_harga": 1558700
+    },
+    {
+      "userId": 1,
+      "id": 1585991110592,
+      "nama": "Philips",
+      "harga": 246000,
+      "total_qty": 6,
+      "total_harga": 1476000
+    },
+    {
+      "userId": 10,
+      "id": 1585991276047,
+      "nama": "Sanken",
+      "harga": 99000,
+      "total_qty": 4,
+      "total_harga": 396000
+    },
+    {
+      "userId": 10,
+      "id": 1585991280738,
+      "nama": "Sanken",
+      "harga": 99000,
+      "total_qty": 1,
+      "total_harga": 99000
+    },
+    {
+      "userId": 1,
+      "id": 1586053647527,
+      "nama": "Philips",
+      "harga": 246000,
+      "total_qty": 4,
+      "total_harga": 984000
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

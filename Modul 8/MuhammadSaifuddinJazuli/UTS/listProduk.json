@@ -1,0 +1,87 @@
+{
+  "barang": [
+    {
+      "userId": 1,
+      "id": 1,
+      "nama": "Philips",
+      "image": "https://jualelektronik.com/wp-content/uploads/2015/12/Philips_setrika_350_Watt_HD-1173.jpg",
+      "harga": 246000,
+      "stok": 6
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "nama": "Maspion",
+      "image": "https://cf.shopee.co.id/file/f9f7e95ba6492fccd0415b9eb9f9df70",
+      "harga": 119900,
+      "stok": 1
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "nama": "Cosmos",
+      "image": "https://jualelektronik.com/wp-content/uploads/2016/06/Cosmos-Setrika-400-Watt-CIS-418.jpg",
+      "harga": 104000,
+      "stok": 4
+    },
+    {
+      "userId": 1,
+      "id": 4,
+      "nama": "Panasonic",
+      "image": "https://id-live-01.slatic.net/original/1ad3fc91e4689aaea79ec2a37adca5b6.jpg",
+      "harga": 246000,
+      "stok": 2
+    },
+    {
+      "userId": 1,
+      "id": 5,
+      "nama": "Electroluc",
+      "image": "https://www.electrolux.co.id/remote.jpg.ashx?urlb64=aHR0cHM6Ly93d3cuZWxlY3Ryb2x1eC5pbS9wcm9kdWN0cy9YTUxMQVJHRVJJTUFHRS9FREkxMDA0X0lEXzcwMHg3MDAucG5n&hmac=TZy7mlNGuig&preset=large",
+      "harga": 200000,
+      "stok": 3
+    },
+    {
+      "userId": 1,
+      "id": 6,
+      "nama": "Miyako",
+      "image": "https://jualelektronik.com/wp-content/uploads/2013/02/Miyako_Setrika_EI1000M.jpg",
+      "harga": 90000,
+      "stok": 2
+    },
+    {
+      "userId": 1,
+      "id": 7,
+      "nama": "Oxone",
+      "image": "https://d2pa5gi5n2e1an.cloudfront.net/global/images/product/irons-steamers/Oxone_OX_836/Oxone_OX_836_L_1.jpg",
+      "harga": 229000,
+      "stok": 5
+    },
+    {
+      "userId": 1,
+      "id": 8,
+      "nama": "Polytron",
+      "image": "https://p.ipricegroup.com/35a8d9f170140d64f34aa1580b5936f9ad6b7cf8_0.jpg",
+      "harga": 139000,
+      "stok": 7
+    },
+    {
+      "userId": 1,
+      "id": 9,
+      "nama": "Kirin",
+      "image": "https://ufoelektronika.com/images/product/.tmb/thumb_3e154-kirin-kei-330s-l-1_adaptiveResize_400_400.jpg",
+      "harga": 109000,
+      "stok": 10
+    },
+    {
+      "userId": 1,
+      "id": 10,
+      "nama": "Sanken",
+      "image": "https://www.sanken.co.id/images/produk/03112017025914-210GE.jpg",
+      "harga": 99000,
+      "stok": 4
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
